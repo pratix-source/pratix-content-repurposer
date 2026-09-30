@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://content-repurposer.vercel.app/sitemap.xml
